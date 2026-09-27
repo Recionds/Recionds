@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Seonghyeon%20Moon&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Java%20%2F%20Spring&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Sunghyun%20Moon&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Java%20%2F%20Spring&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 </div>
 
