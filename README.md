@@ -25,7 +25,7 @@
     <td width="50%" valign="top">
       <h4>📅 맞춰봄</h4>
       모임 일정 조율 서비스<br/>
-      <sub>2025.09 ~ 2026.07 · 백엔드 리드</sub><br/><br/>
+      <sub>2025.09 ~ 2025.12 · 백엔드 리드</sub><br/><br/>
       <a href="https://matuabom.store"><img src="https://img.shields.io/badge/Service-matuabom.store-2563EB?style=flat-square" alt="Service" /></a>
       <a href="https://github.com/Dahllyuhrah-Dahllyuhk/BE"><img src="https://img.shields.io/badge/Backend-Repo-181717?style=flat-square&logo=github" alt="Backend" /></a>
       <a href="https://github.com/Dahllyuhrah-Dahllyuhk/Deploy"><img src="https://img.shields.io/badge/Infra-Repo-181717?style=flat-square&logo=terraform" alt="Infra" /></a>
